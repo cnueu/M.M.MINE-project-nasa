@@ -1,0 +1,10 @@
+.DS_Store
+*~
+server/world*/
+logs/
+.metadata/
+.recommenders/
+crash-reports/
+bin/
+MarsSpoon.jar
+usercache.json
